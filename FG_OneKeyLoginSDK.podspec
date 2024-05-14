@@ -79,7 +79,7 @@ Pod::Spec.new do |s|
   #
 
   # s.source       = { :git => "https://github.com/zhoudaqin/FG_OneKeyLoginSDK.git", :branch => "release" , :tag => s.version.to_s }
-  s.source       = { :git => "https://github.com/zhoudaqin/FG_OneKeyLoginSDK.git", :tag => s.version.to_s }
+  s.source       = { :git => "https://github.com/zhoudaqin/FG_OneKeyLoginSDK.git", :branch => s.version.to_s }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
