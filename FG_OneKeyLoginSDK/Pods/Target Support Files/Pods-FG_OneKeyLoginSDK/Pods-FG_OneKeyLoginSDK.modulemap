@@ -1,6 +1,0 @@
-framework module Pods_FG_OneKeyLoginSDK {
-  umbrella header "Pods-FG_OneKeyLoginSDK-umbrella.h"
-
-  export *
-  module * { export * }
-}
