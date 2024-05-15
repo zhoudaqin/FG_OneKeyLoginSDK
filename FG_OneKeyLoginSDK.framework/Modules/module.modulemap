@@ -1,0 +1,6 @@
+framework module FG_OneKeyLoginSDK {
+  umbrella header "FG_OneKeyLoginSDK.h"
+  export *
+
+  module * { export * }
+}
