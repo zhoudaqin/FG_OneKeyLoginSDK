@@ -4,13 +4,29 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>.DS_Store</key>
+		<data>
+		NOVw60GEFnQ1rFvXlSMUqM1NJa8=
+		</data>
+		<key>Headers/FGComplateResult.h</key>
+		<data>
+		N6pdLh2RFmI13lpklikgKh+sMMI=
+		</data>
 		<key>Headers/FGOneKeyLoginManager.h</key>
 		<data>
-		hoIxD+Fe2ADiHTwOAh1f5CtBShQ=
+		K/Scf6XTLFKINWiLN4XFSX0smWk=
+		</data>
+		<key>Headers/FG_OneKeyLoginSDK.h</key>
+		<data>
+		doc7yjUL1PutZksFezBAj+2sH/Y=
 		</data>
 		<key>Info.plist</key>
 		<data>
 		YMJWO0oMKNGBezTP5nQzhQonOq8=
+		</data>
+		<key>Modules/module.modulemap</key>
+		<data>
+		QEM81Ef0G39YYMLLanJCOEw7KCI=
 		</data>
 		<key>sdk_oauth.bundle/back@2x.png</key>
 		<data>
@@ -51,15 +67,48 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Headers/FGComplateResult.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			N6pdLh2RFmI13lpklikgKh+sMMI=
+			</data>
+			<key>hash2</key>
+			<data>
+			f5wIfaaEVswwWM1nnKYpr1XAWpfLsa9lKyoJmeHllLI=
+			</data>
+		</dict>
 		<key>Headers/FGOneKeyLoginManager.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			hoIxD+Fe2ADiHTwOAh1f5CtBShQ=
+			K/Scf6XTLFKINWiLN4XFSX0smWk=
 			</data>
 			<key>hash2</key>
 			<data>
-			OMkZa4shM4TNVv+iOz+hEGVvUsafWV0D7TTjoU2B//I=
+			sfYl6CRWz91w4+oqe/nrN148umiaGH9RvNwrhohb+5Q=
+			</data>
+		</dict>
+		<key>Headers/FG_OneKeyLoginSDK.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			doc7yjUL1PutZksFezBAj+2sH/Y=
+			</data>
+			<key>hash2</key>
+			<data>
+			vcdAiuJ8gJjvXkhsrsumiiYNqxXtooDZLUZgJkqsU3w=
+			</data>
+		</dict>
+		<key>Modules/module.modulemap</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			QEM81Ef0G39YYMLLanJCOEw7KCI=
+			</data>
+			<key>hash2</key>
+			<data>
+			BD7pdb2L0cj1zTKnb4xlF2+2+idsT55S+hmtCoA1wuk=
 			</data>
 		</dict>
 		<key>sdk_oauth.bundle/back@2x.png</key>
